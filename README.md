@@ -1,4 +1,4 @@
-# Quiz
+# QUIZ APPLICATION
 
 The Quiz Application is an interactive software program designed to test a user's knowledge through Multiple Choice Questions (MCQs). It presents a series of questions along with four answer options, allowing the user to select the correct answer. After answering all questions, the application calculates and displays the final score.
 
